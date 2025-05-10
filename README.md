@@ -63,9 +63,10 @@ HerbSphere/
 
 Due to the large size of the database, it is not included in this repository. You can download the database from the following link:
 
-**[Download Database](#)**
+**[Download Database]([#](https://drive.google.com/drive/folders/1D2TN3lWPscdUrMfl-2MOxdM-BkZsI438?usp=sharing))**
 
-*(Replace `#` with the actual Google Drive link)*
+
+
 
 ## Contributing
 
